@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 
 -------------
 ### 💬 about
-*Specialism：* 
+*Specialism* 
  - Computer version          
  - Facial expression recognition 
-
-*Skills：*
+*Skills*
  - Java/python
  - JavaWeb
  - Pytorch
-
+ 
 📫 How to reach me: 
 
 Blog：[wncoder.com](https://www.wncoder.com/)
