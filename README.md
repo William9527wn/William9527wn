@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 -------------
 ### 💬 about
 *Specialism：* 
- - Computer version          - Java/python
+ - Computer version          
  - Facial expression recognition 
 
 *Skills：*
-
+ - Java/python
  - JavaWeb
  - Pytorch
 
