@@ -28,7 +28,7 @@ github：[William9527wn](https://github.com/William9527wn)
 
 
 -------------
-### 💬 about
+### 💬 about me
 *Specialism* 
  - Computer version          
  - Facial expression recognition 
