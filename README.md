@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 *Specialism* 
  - Computer version          
  - Facial expression recognition 
+ 
 *Skills*
  - Java/python
  - JavaWeb
