@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-------------
 ### 💬 about
 *Specialism：* 
  - Computer version
@@ -23,9 +24,10 @@ Here are some ideas to get you started:
  - Java/python
  - JavaWeb
  - Pytorch
-
+------------
+### Overview
 <img  src="https://github-readme-stats.vercel.app/api?username=William9527wn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ----------------
+### Access
 ![](https://visitor-badge.glitch.me/badge?page_id=William9527wn.readme)
 
